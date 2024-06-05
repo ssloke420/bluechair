@@ -1,0 +1,18 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+img {
+  width: 200px;
+  height: auto;
+  border: dashed 5px cyan;
+  border-radius: 3px;
+  padding: 15px;
+}
+
+body {
+  text-align:center;
+  color: cyan;
+  background-image: linear-gradient(blue, navy, cyan, darkblue);
+}
